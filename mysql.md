@@ -168,3 +168,4 @@ In MySQL 5.7 or above
 
 mysql> update user set authentication_string=PASSWORD('new-password') where user='root';
 flush privileges;
+#####  select
